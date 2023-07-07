@@ -9,7 +9,7 @@ void bubbleSort(int array[], int arraySize)
   
    for (i = 0; i < arraySize; i++)
    {
-      numSwaps[i] = 0;
+      numSwaps[i] =  0;
    }
 
    // Iterate through the array from element 0-8. Size of the array called array is 9.
